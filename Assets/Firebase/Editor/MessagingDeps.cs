@@ -98,7 +98,8 @@ public class FirebaseMessagingDeps : AssetPostprocessor
                 },
                 { "repositories",
                     new string[] {
-                        "Assets/Firebase/m2repository"
+                        "Assets/Modules/umm@firebase_core/Firebase/m2repository",
+                        "Assets/Modules/umm@firebase_cloudmessaging/Firebase/m2repository"
                     }
                 }
             });
