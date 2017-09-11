@@ -1,6 +1,6 @@
 {
   "name": "@umm/firebase_cloudmessaging",
-  "version": "4.1.0",
+  "version": "1.0.0",
   "description": "Firebase Unity SDK / Analytics",
   "homepage": "https://github.com/umm-projects/firebase_cloudmessaging",
   "bugs": {
@@ -21,7 +21,7 @@
     "scripts"
   ],
   "dependencies": {
-    "@umm/firebase_core": "github:umm-projects/firebase_core",
+    "@umm/firebase_core": "github:umm-projects/firebase_core#semver:^1.0.0",
     "glob": "^7.1.2",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
