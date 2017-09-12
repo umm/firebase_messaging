@@ -59,4 +59,3 @@ Assets/Modules/umm@firebase_core/Plugins/x86_64/Firebase/App.so
 Assets/Modules/umm@firebase_cloudmessaging/Plugins/x86_64/Firebase/Messaging.bundle
 Assets/Modules/umm@firebase_cloudmessaging/Plugins/x86_64/Firebase/Messaging.dll
 Assets/Modules/umm@firebase_cloudmessaging/Plugins/x86_64/Firebase/Messaging.so
-
