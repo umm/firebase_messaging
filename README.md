@@ -1,14 +1,23 @@
-# What?
+# Firebase CloudMessaging
 
-* Firebase Unity SDK の Cloud Messaging 用モジュールです。
+* Firebase Unity SDK の CloudMessaging 用モジュールです。
+* 利用している SDK のバージョンは v4.4.2 になります。
 
-# Install
+## Install
 
 ```shell
-$ npm install github:umm-projects/firebase_cloudmessaging
+npm install github:umm-projects/firebase_cloudmessaging
 ```
 
-# Docs
+## Requirement
 
-* https://firebase.google.com/docs/cloud-messaging/index
+* プロジェクトの Scripting Runtime Version に応じてモジュールの追加インストールが必須になります。
 
+| Scripting Runtime Version | Module |
+| --- | --- |
+| .NET 3.5 | [Parse on .NET 3.5](https://github.com/umm-project/parse_dotnet35) |
+| .NET 4.6 | [Parse on .NET 4.6](https://github.com/umm-project/parse_dotnet46) |
+
+## Docs
+
+* [https://firebase.google.com/docs/cloud-messaging/index](https://firebase.google.com/docs/cloud-messaging/index)
