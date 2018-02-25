@@ -3,3 +3,6 @@ Modules/
 Modules.meta
 Tests/
 Tests.meta
+Editor Default Resources/Firebase/
+Editor Default Resources/Firebase.meta
+Firebase/Editor/generate_xml_from_google_services_json*
