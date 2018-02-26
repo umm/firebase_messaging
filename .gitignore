@@ -60,4 +60,8 @@ Assets/Plugins/Editor.meta
 /Assets/Editor Default Resources/Firebase/
 /Assets/Editor Default Resources/Firebase.meta
 /Assets/Firebase/Editor/generate_xml_from_google_services_json*
+/Assets/Plugins/Android/Firebase/AndroidManifest.xml
+/Assets/Plugins/Android/Firebase/AndroidManifest.xml.meta
+/Assets/Plugins/Android/Firebase/project.properties
+/Assets/Plugins/Android/Firebase/project.properties.meta
 
