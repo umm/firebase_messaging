@@ -3,8 +3,8 @@
 
 
 "@umm/firebase_core@^1.2.2":
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/@umm/firebase_core/-/firebase_core-1.2.3.tgz#bb0feea337fbfe7408bcde1dc65305e1d092d03b"
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@umm/firebase_core/-/firebase_core-1.2.4.tgz#56697ba05c033b9b44aa5d4ea5f8ede4605acb3f"
   dependencies:
     glob "^7.1.2"
     mkdirp "^0.5.1"
