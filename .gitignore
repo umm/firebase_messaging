@@ -59,6 +59,5 @@ Assets/Plugins/Editor.meta
 # ====== #
 /Assets/Editor Default Resources/Firebase/
 /Assets/Editor Default Resources/Firebase.meta
-/Assets/Firebase/Editor/
-/Assets/Firebase/Editor.meta
+/Assets/Firebase/Editor/generate_xml_from_google_services_json*
 
