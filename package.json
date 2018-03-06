@@ -1,6 +1,6 @@
 {
   "name": "@umm/firebase_cloudmessaging",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Firebase Unity SDK / CloudMessaging",
   "homepage": "https://github.com/umm-projects/firebase_cloudmessaging",
   "bugs": {
