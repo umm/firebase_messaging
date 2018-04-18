@@ -3,13 +3,10 @@
 
 
 "@umm/firebase_core@umm-projects/firebase_core#^1.0.0":
-  version "1.3.0"
-  resolved "https://codeload.github.com/umm-projects/firebase_core/tar.gz/b96d50bfba9e9219809670c8a691a37de69cc7f1"
+  version "1.3.1"
+  resolved "https://codeload.github.com/umm-projects/firebase_core/tar.gz/3924b6293f929a19498855af3a021c13b54ad040"
   dependencies:
     "@umm/scripts" umm-projects/scripts#^1.0.0
-    glob "^7.1.2"
-    mkdirp "^0.5.1"
-    rimraf "^2.6.1"
 
 "@umm/scripts@umm-projects/scripts#^1.0.0":
   version "1.0.2"
@@ -86,7 +83,7 @@ path-is-absolute@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
-rimraf@^2.6.1, rimraf@^2.6.2:
+rimraf@^2.6.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.6.2.tgz#2ed8150d24a16ea8651e6d6ef0f47c4158ce7a36"
   dependencies:
