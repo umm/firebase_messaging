@@ -25,10 +25,7 @@
   ],
   "dependencies": {
     "@umm/firebase_core": "umm-projects/firebase_core#^1.0.0",
-    "@umm/scripts": "umm-projects/scripts#^1.0.0",
-    "glob": "^7.1.2",
-    "mkdirp": "^0.5.1",
-    "rimraf": "^2.6.1"
+    "@umm/scripts": "umm-projects/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
