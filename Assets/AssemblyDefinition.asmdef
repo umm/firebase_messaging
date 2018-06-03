@@ -1,0 +1,10 @@
+{
+    "name": "umm@firebase_cloudmessaging",
+    "references": [
+        "umm@firebase_core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
