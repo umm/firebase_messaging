@@ -2,9 +2,9 @@
   "name": "@umm/firebase_cloudmessaging",
   "version": "1.4.0",
   "description": "Firebase Unity SDK / CloudMessaging",
-  "homepage": "https://github.com/umm-projects/firebase_cloudmessaging",
+  "homepage": "https://github.com/umm/firebase_cloudmessaging",
   "bugs": {
-    "url": "https://github.com/umm-projects/firebase_cloudmessaging/issues"
+    "url": "https://github.com/umm/firebase_cloudmessaging/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -17,15 +17,15 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/firebase_cloudmessaging"
+    "url": "git@github.com:umm/firebase_cloudmessaging"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/firebase_core": "umm-projects/firebase_core#^1.0.0",
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/firebase_core": "umm/firebase_core#^1.0.0",
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
