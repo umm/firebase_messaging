@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: !!python/unicode '104bd79795964dd3a77a6fa53e729421'
+guid: !!python/unicode '708f3a7413ee45d8ac3346316f6957fe'
 labels:
 - gvh
 - gvh_version-5.4.3
@@ -11,42 +11,42 @@ PluginImporter:
   isPreloaded: 0
   platformData:
     Android:
-      enabled: 0
+      enabled: 1
       settings:
         CPU: AnyCPU
     Any:
       enabled: 0
       settings: {}
     Editor:
-      enabled: 0
+      enabled: 1
       settings:
         CPU: AnyCPU
         DefaultValueInitialized: true
         OS: AnyOS
     Linux:
-      enabled: 0
+      enabled: 1
       settings:
-        CPU: None
+        CPU: x86
     Linux64:
-      enabled: 0
+      enabled: 1
       settings:
-        CPU: None
+        CPU: x86_64
     LinuxUniversal:
-      enabled: 0
+      enabled: 1
       settings:
-        CPU: None
+        CPU: AnyCPU
     OSXIntel:
-      enabled: 0
+      enabled: 1
       settings:
-        CPU: None
+        CPU: x86
     OSXIntel64:
-      enabled: 0
+      enabled: 1
       settings:
-        CPU: None
+        CPU: x86_64
     OSXUniversal:
-      enabled: 0
+      enabled: 1
       settings:
-        CPU: None
+        CPU: AnyCPU
     Web:
       enabled: 0
       settings: {}
@@ -54,19 +54,19 @@ PluginImporter:
       enabled: 0
       settings: {}
     Win:
-      enabled: 0
+      enabled: 1
       settings:
-        CPU: None
+        CPU: x86
     Win64:
-      enabled: 0
+      enabled: 1
       settings:
-        CPU: None
+        CPU: x86_64
     WindowsStoreApps:
       enabled: 0
       settings:
         CPU: AnyCPU
     iOS:
-      enabled: 1
+      enabled: 0
       settings:
         CompileFlags:
         FrameworkDependencies:
