@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.google.firebase</groupId>
   <artifactId>firebase-messaging-unity</artifactId>
-  <version>4.4.3</version>
+  <version>5.4.3</version>
   <packaging>aar</packaging>
   <dependencies>
 
