@@ -5,19 +5,19 @@ FirebaseMessaging iOS and Android Dependencies.
 
 <dependencies>
   <iosPods>
-    <iosPod name="Firebase/Messaging" version="5.15.0" minTargetSdk="8.0">
+    <iosPod name="Firebase/Messaging" version="6.9.0" minTargetSdk="8.0">
     </iosPod>
   </iosPods>
   <androidPackages>
-    <androidPackage spec="com.google.firebase:firebase-iid:[17.0.4]">
+    <androidPackage spec="com.google.firebase:firebase-iid:[20.0.0]">
     </androidPackage>
-    <androidPackage spec="com.google.firebase:firebase-core:16.0.6">
+    <androidPackage spec="com.google.firebase:firebase-analytics:17.2.0">
     </androidPackage>
-    <androidPackage spec="com.google.firebase:firebase-messaging:17.3.4">
+    <androidPackage spec="com.google.firebase:firebase-messaging:20.0.0">
     </androidPackage>
-    <androidPackage spec="com.google.firebase:firebase-messaging-unity:5.4.4">
+    <androidPackage spec="com.google.firebase:firebase-messaging-unity:6.6.0">
       <repositories>
-        <repository>Assets/Modules/umm@firebase_cloudmessaging/Firebase/m2repository</repository>
+        <repository>Assets/Firebase/m2repository</repository>
       </repositories>
     </androidPackage>
   </androidPackages>
