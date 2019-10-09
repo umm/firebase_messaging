@@ -1,12 +1,12 @@
-# Firebase CloudMessaging
+# Firebase Messaging
 
-* Firebase Unity SDK / CloudMessaging
+* Firebase Unity SDK / Messaging
 * SDK version: 4.4.3
 
 ## Install
 
 ```shell
-yarn add "umm/firebase_cloudmessaging#^1.0.0"
+yarn add "umm/firebase_messaging#^1.0.0"
 ```
 
 ## Requirement
